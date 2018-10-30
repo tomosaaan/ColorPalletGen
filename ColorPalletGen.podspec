@@ -6,4 +6,6 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'Tomoki Takahashi' => 'tom_aaa_0905@yahoo.co.jp' }
   s.source       = { http: "#{s.homepage}/releases/download/#{s.version}/ColorPalletGen.zip" }
+  s.preserve_paths = '*'
+  s.exclude_files = "**/file.zip"
 end
