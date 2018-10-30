@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'ColorPalletGen'
-  s.version      = '0.1.0'
+  s.version      = '0.1.1'
   s.summary      = 'Generate .clr file using some files'
   s.homepage     = 'https://github.com/tomokitakahashi/ColorPalletGen'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
