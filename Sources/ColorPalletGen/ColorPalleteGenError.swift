@@ -1,6 +1,6 @@
 import Foundation
 
-enum ColorPalletGenError: Error {
+public enum ColorPalletGenError: Error {
     case parseError(filePath: String)
     case invalidColor(hex: String)
     case unsuppotedFileType(ext: String)

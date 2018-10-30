@@ -1,7 +1,7 @@
 import Foundation
 import PathKit
 
-class ColorPalletGen {
+public final class ColorPalletGen {
     let filePath: String
     var parsers: [String: FileParser.Type] = [:]
     

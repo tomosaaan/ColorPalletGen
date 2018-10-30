@@ -1,6 +1,6 @@
 import Foundation
 
-enum Color {
+public enum Color {
     enum Prefix {
         case shape
         case hexaDecimal
