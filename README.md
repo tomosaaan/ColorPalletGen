@@ -31,6 +31,10 @@ pod "ColorPalletGen"
 |      json      | released |
 |      txt       | feature  |
 
+## Inspired
+
+- [SwiftGen](https://github.com/SwiftGen/SwiftGen)
+
 ## LICENSE
 
 Under the MIT license. See [LICENSE](https://github.com/tomokitalahashi/ColorPalletGen/blob/master/LICENSE) file for details.
